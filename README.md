@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jonash55
+- 👋 Hi, I’m Bartosz Jankowski
 - 👀 I’m interested in Data Science / Machine Learning / AI
 - 🌱 I’m currently learning DS/ML
 - 📫 How to reach me -> email: bjankowski333@gmail.com
