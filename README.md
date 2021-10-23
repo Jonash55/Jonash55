@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bartosz Jankowski
 - 👀 I’m interested in Data Science / Machine Learning / AI
-- 🖥️ I’m currently working for Ermlab Software
+- 🖥️ I’m currently working at Ermlab Software
 - 📫 How to reach me -> email: bjankowski@ermlab.com /// bjankowski333@gmail.com
 
 <!---
