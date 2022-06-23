@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bartosz Jankowski
-- 👀 I’m interested in Data Engineering / MLOps
+- 👀 I’m interested in Data Engineering / Machine Learning
 - 🖥️ I’m currently working at Ermlab Software
 - 📫 How to reach me -> email: bjankowski@ermlab.com /// bjankowski333@gmail.com
 
