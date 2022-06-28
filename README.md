@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bartosz Jankowski
 - 👀 I’m interested in Data Engineering / Machine Learning
 - 🖥️ I’m currently working at Ermlab Software
-- 📫 How to reach me -> email: bjankowski@ermlab.com /// bjankowski333@gmail.com
+- 📫 How to reach me -> email: bjankowski333@gmail.com
 
 <!---
 Jonash55/Jonash55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
