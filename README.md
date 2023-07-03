@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bartosz Jankowski
-- 👀 I’m interested in Data Engineering / Machine Learning
-- 🖥️ I’m currently working at Ermlab Software
+- 👀 I’m interested in Data Engineering
+- 🖥️ I’m currently working at Four Point
 - 📫 How to reach me -> email: bjankowski333@gmail.com
 
 <!---
